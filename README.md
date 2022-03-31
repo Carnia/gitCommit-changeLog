@@ -40,4 +40,4 @@
     ```
 
 # git-cz规范提交，standard-version规范发布，changelog生成
-参考：https://devops.sany.com.cn/#/knowledge/share/0ea1fe0b40f4a16d
+参考：https://blog.csdn.net/weixin_39848007/article/details/112332246
